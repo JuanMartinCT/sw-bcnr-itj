@@ -1,0 +1,202 @@
+*
+{
+	margin: 0; 
+	padding: 0;
+	font-size: 28px;
+}
+
+.fondo
+{
+	background: #6594E6;
+}
+
+.imgfondo
+{
+	width: 1920px;
+	height: 528px;
+	background: #CCC;
+	overflow: hidden;
+	display: flex;
+	flex-flow: column wrap;
+	width: 100vw;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	opacity: 0.3;
+}
+
+.menu
+{
+	position: absolute;
+	top: 50px;
+	left: 1050px;
+	font-size: 20px;
+}
+
+.nomprof
+{
+	position: absolute;
+	top: 264px;
+	left: 620px;
+	text-align: center;
+}
+
+.I
+{
+	position: absolute;
+	left: 0px;
+	l
+}
+
+.E
+{
+	position: absolute;
+	left: 100px;
+}
+
+.N
+{
+	position: absolute;
+	left: 200px;
+}
+
+.borde
+{
+	position: absolute;
+	left: -100px;
+	width: 360px; 
+    height: 140px; 
+    padding: 1px;
+    background:  #6594E6;
+    border-color: red;
+    border-radius: 15px;
+    opacity: 0.8;
+}
+ 
+.texto1
+{
+	font-size: 67px;
+
+}		
+
+.texto2
+{
+	font-size: 33px;
+}
+
+.texto1,.texto2
+{
+	color: white;
+	font-family: ;
+}
+
+.photo
+{
+	border-radius: 100px;
+	overflow: hidden;
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	left: 600px;
+	top: 492px;
+
+}
+
+.trabajos
+{
+	position: relative;
+	top: 300px;
+	left: 220px;
+	border-radius: 15px;
+	margin: 20px;
+	height: 200px;
+	width: 200px;
+}
+
+.n
+{
+	color: white;
+	text-decoration: none;
+}
+
+
+.t1, .t2, .t3, .t4
+{
+	position: absolute;
+	left: 280px;
+	top: 1150px;
+}
+
+.t2
+{
+	left: 550px;
+}
+
+.t3
+{
+	left: 750px;
+}
+
+.t4
+{
+	left: 1030px;
+}
+
+.des
+{
+	position: relative;
+	text-align: center;
+	top: 400px;
+}
+
+.info
+{
+	margin: 100px;
+	padding: 25px;
+	border-radius: 10px;
+	background: #5896d4;
+	position: relative;
+	top: 350px;
+}
+
+hr
+{
+	position: absolute;
+	left: 350px;
+	height: 5px;
+ 	width: 50%;
+  	background-color: #0e4793; 
+}
+
+p, article, h3
+{
+	font-size: 22px;
+	color: #04224b;
+}
+
+h3
+{
+	color: 304224b;
+}
+
+.final
+{
+	background: #11386d;
+	height: 200px;
+	width: 1350px;
+	position: absolute;
+	top: 1750px;
+}
+
+.red
+{
+	position: relative;
+	width: 80px;
+	height: 80px;
+	left: 550px;
+	top: 60px;
+}
